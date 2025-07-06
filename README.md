@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**BhargavKumarNath/BhargavKumarNath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Bhargav Nath 👋</h1>
+<p align="center">
+  🚀 Data Scientist | 🎯 ML Engineer | 🧠 Deep Learning Enthusiast <br>
+  📍 Based in the UK | 💼 Open to Opportunities from Sept 2025
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+```yaml
+- 🎓 MSc in Data Science & Analytics | University in the UK
+- 📊 Passionate about extracting insights from data
+- 🛠️ Building ML pipelines, NLP apps, and explainable models
+- 💡 Working on interpretable AI & transformer models for time-series
+- 🌱 Currently exploring: MLOps, Vision Transformers, LangChain
