@@ -220,7 +220,7 @@ My goal is to bridge the gap between theoretical research and practical applicat
 
 <!-- GitHub Contribution Snake Animation -->
 <div align="center">
-  <img src="https://platane.github.io/snk/svg-animation/github-contribution-grid-snake.svg?u=BhargavKumarNath&theme=github-dark" alt="github contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?u=BhargavKumarNath&theme=github-dark" alt="github contribution snake animation"/>
 </div>
 
 ---
