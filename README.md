@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF¢er=true&vCenter=true&width=600&lines=Neural+Network+Architect;LLM+%26+Transformer+Specialist;Genetic+Algorithm+Explorer;AI+for+Healthcare+Innovator" alt="Typing SVG" />
+  <!-- Animated Header (using a more reliable host) -->
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF¢er=true&vCenter=true&width=600&lines=Neural+Network+Architect;LLM+/+Transformer+Specialist;Genetic+Algorithm+Explorer;AI+for+Healthcare+Innovator" alt="Typing SVG" />
   
   <br/>
   
