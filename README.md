@@ -16,9 +16,10 @@
     <a href="https://www.linkedin.com/in/bhargav-kumar-nath-91b59920b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:bhargavkumarnathh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+    <a href="https://mail.google.com/mail/?view=cm&to=bhargavkumarnathh@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+</a>
+
   </p>
   
 </div>
@@ -240,9 +241,9 @@ My goal is to bridge the gap between theoretical research and practical applicat
     <a href="https://www.linkedin.com/in/bhargav-kumar-nath-91b59920b/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
     </a>
-    <a href="mailto:bhargavkumarnathh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email for Collaboration"/>
-    </a>
+    <a href="https://mail.google.com/mail/?view=cm&to=bhargavkumarnathh@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+</a>
   </p>
   
 </div>
