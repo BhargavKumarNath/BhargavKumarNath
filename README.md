@@ -28,9 +28,11 @@
 
 ## 🎯 About Me
 
-I am a deeply passionate AI and Machine Learning student, driven by a fascination with the core building blocks of intelligence. My work is centered on designing and understanding complex neural networks, with a special focus on **Transformer architectures**, the power behind **Large Language Models (LLMs)**. I'm equally fascinated by Genetic Algorithms and other bio-inspired techniques I believe nature has a clever way of solving problems that we can learn a lot from.
+I'm a data science student, drawn to the fundamental ideas behind how intelligence works. My current focus is on building and understanding complex neural networks—especially Transformer architectures, which power today’s Large Language Models (LLMs).
 
-My goal is to bridge the gap between theoretical research and practical application, particularly in high-impact domains like healthcare. Whether it's compressing a massive model through **knowledge distillation** or evolving an optimal solution with genetic programming, I am committed to engineering AI that is not only powerful but also efficient and accessible.
+I'm also intrigued by Genetic Algorithms and other bio-inspired approaches. There's something fascinating about how nature solves problems so efficiently, and I believe there's a lot we can learn from that.
+
+What drives me is the challenge of turning theoretical research into real-world impact, especially in fields like healthcare. Whether it's making large models more efficient through knowledge distillation, or using evolutionary techniques to optimize solutions, I'm motivated by the idea of creating AI that's both powerful and practical.
 
 **What I'm passionate about:**
 - 🧠 **Advanced Neural Architectures**: Mastering Transformers, Siamese Networks, and custom deep learning models.
