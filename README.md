@@ -28,7 +28,7 @@
 
 ## 🎯 About Me
 
-I'm a data science student, drawn to the fundamental ideas behind how intelligence works. My current focus is on building and understanding complex neural networks—especially Transformer architectures, which power today’s Large Language Models (LLMs).
+I'm a data science student, drawn to the fundamental ideas behind how intelligence works. My current focus is on building and understanding complex neural networks especially Transformer architectures, which power today’s Large Language Models (LLMs).
 
 I'm also intrigued by Genetic Algorithms and other bio-inspired approaches. There's something fascinating about how nature solves problems so efficiently, and I believe there's a lot we can learn from that.
 
