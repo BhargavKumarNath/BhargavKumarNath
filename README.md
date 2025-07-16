@@ -91,6 +91,8 @@ What drives me is the challenge of turning theoretical research into real-world 
 
 ---
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
