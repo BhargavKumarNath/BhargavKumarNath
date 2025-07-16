@@ -81,45 +81,43 @@ What drives me is the challenge of turning theoretical research into real-world 
 
 ---
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Neural Distillation](https://github.com/BhargavKumarNath/Neural_Distillation)
-> **Compressing Large Models with Knowledge Transfer**
+### 🧬 [Genetic Algorithm for CNN Architecture Search](https://github.com/BhargavKumarNath/Genetic-Algorithm-For-Hyperparameter-Optimisation)
+> **Evolving Optimal Neural Networks with Bio-Inspired AI**
 
-🎯 Implementing advanced distillation techniques to create smaller, faster student models from large-scale "teacher" networks, with a focus on Transformer-based architectures for healthcare applications.
+🎯 Engineered a Genetic Algorithm from scratch to automate hyperparameter tuning and architecture search, culminating in a novel CNN that achieved **97.15% accuracy** on a medical imaging dataset.
 
 **🔬 Key Features:**
-- Teacher-Student architecture for model compression
-- Performance preservation with significant size reduction
-- Focus on distilling knowledge from complex models
+- Custom-built genetic operators for selection, crossover & mutation
+- Fault-tolerant pipeline with checkpointing & resume capabilities
+- Deployed via a Streamlit app for interactive inference
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [Heart Failure Prediction](https://github.com/BhargavKumarNath/Heart_Failure_Prediction)
-> **AI-Powered Cardiac Risk Assessment**
+### 🛒 [UK Supermarket Competitive Analysis](https://github.com/BhargavKumarNath/PricePoint-Dynamics-Decoding-the-UK-Supermarket-Competitive-Landscape-with-Machine-Learning)
+> **Decoding Market Dynamics with Large-Scale Price Analysis**
 
-🎯 Developed a high-accuracy ensemble ML model for early heart failure detection. Exploring the use of attention mechanisms to improve feature interpretability and predictive power.
+🎯 Built an end-to-end system to analyze 9.5M+ daily price records, proving Aldi acts as the market price leader with a 4-7 day lead time. The core innovation was a novel product-matching system that expanded comparable products by **20x**.
 
 **🔬 Key Features:**
-- High-accuracy ensemble methods
-- Advanced clinical feature engineering
-- Real-time risk assessment potential
+- Sentence-BERT & FAISS for large-scale product matching
+- LightGBM for price forecasting (MAE of £0.14)
+- SHAP for model explainability & insight generation
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-006400?style=for-the-badge&logo=lightgbm&logoColor=white" />
 </p>
 
 </td>
@@ -127,39 +125,39 @@ What drives me is the challenge of turning theoretical research into real-world 
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [Siamese Network](https://github.com/BhargavKumarNath/Siamese-Network)
-> **Deep Similarity Learning Architecture**
+### 🏠 [Advanced House Price Regression](https://github.com/BhargavKumarNath/House-Prices-Advanced-Regression-Techniques)
+> **Predicting Real Estate Values with Ensemble Modeling**
 
-🎯 Built and optimized Siamese networks for nuanced similarity tasks in medical imaging. This architecture is fundamental for tasks like patient matching and anomaly detection.
+🎯 Developed a sophisticated ensemble model for house price prediction, achieving a Top 10% rank in the Kaggle competition. The solution combined multiple models (XGBoost, LightGBM, Ridge) through stacked generalization.
 
 **🔬 Key Features:**
-- Contrastive loss for effective similarity learning
-- Few-shot learning capabilities
-- Foundational for advanced recognition systems
+- Advanced feature engineering & outlier handling
+- Stacked ensemble modeling for superior accuracy
+- In-depth exploratory data analysis (EDA)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 [Genetic Algorithm for Optimization](https://github.com/BhargavKumarNath/Genetic-Algorithm-for-Optimization)
-> **Evolving Solutions with Bio-Inspired AI**
+### 🏥 [Heart Failure Prediction](https://github.com/BhargavKumarNath/Heart_Failure_Prediction)
+> **AI-Powered Clinical Risk Assessment**
 
-🎯 A framework for applying Genetic Algorithms to solve complex optimization problems, such as feature selection and hyperparameter tuning for neural networks.
+🎯 Built and deployed a high-accuracy classification model for early heart failure detection based on clinical features. The project focuses on creating an interpretable yet powerful tool to aid clinical decision-making.
 
 **🔬 Key Features:**
-- Core genetic operators: Selection, Crossover, Mutation
-- Customizable fitness functions
-- Applications in ML model optimization
+- Logistic Regression model with 87% accuracy
+- Comprehensive EDA to identify key risk factors
+- Deployed as a user-friendly Streamlit application
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Genetic_Algorithms-3CB371?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optimization-96CEB4?style=flat-square&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 </td>
