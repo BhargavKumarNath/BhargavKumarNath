@@ -8,8 +8,8 @@
   <br/>
   
   <!-- Professional Tagline -->
-  <h3>🧠 Architecting Intelligence with Transformers and Bio-Inspired AI</h3>
-  <p><em>Building the next generation of intelligent systems by exploring the frontiers of LLMs, neural architectures, and evolutionary computation.</em></p>
+<h3>🧠 Driving Innovation with AI and Advanced Neural Systems</h3>
+<p><em>Designing intelligent solutions at the intersection of deep learning, large language models, and bio-inspired algorithms.</em></p>
   
   <!-- Social Links -->
   <p>
@@ -54,16 +54,22 @@ What drives me is the challenge of turning theoretical research into real-world 
         <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Matplotlib-3178C6?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/Seaborn-094C72?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+        <img src="https://img.shields.io/badge/Statsmodels-1E3A8A?style=for-the-badge" alt="Statsmodels" />
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Deep Learning & ML</h3>
+      <h3 align="center">Machine Learning & Deep Learning</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/LightGBM-00BFFF?style=for-the-badge" alt="LightGBM" />
         <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/Transformers-4B0082?style=for-the-badge" alt="Transformers" />
       </div>
     </td>
   </tr>
@@ -73,8 +79,8 @@ What drives me is the challenge of turning theoretical research into real-world 
       <div align="center">
         <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Matplotlib-3178C6?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-        <img src="https://img.shields.io/badge/Seaborn-094C72?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+        <img src="https://img.shields.io/badge/Parquet-0052CC?style=for-the-badge" alt="Parquet" />
+        <img src="https://img.shields.io/badge/RDKit-2C8EBB?style=for-the-badge" alt="RDKit" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
       </div>
     </td>
@@ -82,12 +88,17 @@ What drives me is the challenge of turning theoretical research into real-world 
       <h3 align="center">Tools, MLOps & Platforms</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/MLflow-0B60B0?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+        <img src="https://img.shields.io/badge/Weights_&_Biases-FE2C55?style=for-the-badge&logo=wandb&logoColor=white" alt="W&B" />
       </div>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -97,7 +108,7 @@ What drives me is the challenge of turning theoretical research into real-world 
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 [Genetic Algorithm for CNN Architecture Search](https://github.com/BhargavKumarNath/Genetic-Algorithm-For-Hyperparameter-Optimisation)
+### 🧬 [Genetic Algorithm for CNN Architecture Search](https://github.com/BhargavKumarNath/Neural-Architecture-Search)
 > **Evolving Optimal Neural Networks with Bio-Inspired AI**
 
 🎯 Engineered a Genetic Algorithm from scratch to automate hyperparameter tuning and architecture search, culminating in a novel CNN that achieved **97.15% accuracy** on a medical imaging dataset.
@@ -111,6 +122,50 @@ What drives me is the challenge of turning theoretical research into real-world 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ [Fitness Analytics with PySpark](https://github.com/BhargavKumarNath/Fitness-Tracker-Analysis)
+> **Scalable Data Science Pipeline for Wearable Fitness Data**
+
+🎯 Designed a **production-grade analytics platform** that processes and models large-scale fitness tracker data using **PySpark** and a modern **MLOps workflow**. The system demonstrates a complete end-to-end lifecycle — from data ingestion and transformation to machine learning and deployment.
+
+**🔬 Key Features:**
+- Built an ETL pipeline handling **358K+ activity records** across **1.9K users**
+- Designed partitioned Parquet data storage for optimized Spark queries
+- Trained PySpark MLlib models (K-Means, Logistic Regression, Linear Regression)  
+- Integrated with **Docker** and **MLflow** for reproducible, scalable experimentation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 [Advanced Molecular Property Prediction](https://github.com/BhargavKumarNath/Thermophysical-Property-Melting-Point)
+> **Predicting Molecular Melting Points using Hybrid Graph Neural Networks**
+
+🎯 Built an end-to-end ML pipeline for predicting the **melting point of organic compounds**, combining classical ML models with a **Hybrid Graph Neural Network (GNN)** that learns directly from molecular graph structures.
+
+**🔬 Key Features:**
+- Comprehensive data preprocessing and feature engineering using RDKit  
+- Hybrid architecture integrating **descriptor-based ML** and **graph-based deep learning**  
+- Model interpretability analysis for feature importance and molecular insights  
+- Modular, production-ready pipeline with clear experiment tracking  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDKit-2C8EBB?style=for-the-badge&logo=chemistry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graph%20Neural%20Network-4B0082?style=for-the-badge" />
 </p>
 
 </td>
@@ -134,47 +189,9 @@ What drives me is the challenge of turning theoretical research into real-world 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [Advanced House Price Regression](https://github.com/BhargavKumarNath/House-Prices-Advanced-Regression-Techniques)
-> **Predicting Real Estate Values with Ensemble Modeling**
-
-🎯 Developed a sophisticated ensemble model for house price prediction, achieving a Top 10% rank in the Kaggle competition. The solution combined multiple models (XGBoost, LightGBM, Ridge) through stacked generalization.
-
-**🔬 Key Features:**
-- Advanced feature engineering & outlier handling
-- Stacked ensemble modeling for superior accuracy
-- In-depth exploratory data analysis (EDA)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [Heart Failure Prediction](https://github.com/BhargavKumarNath/Heart_Failure_Prediction)
-> **AI-Powered Clinical Risk Assessment**
-
-🎯 Built and deployed a high-accuracy classification model for early heart failure detection based on clinical features. The project focuses on creating an interpretable yet powerful tool to aid clinical decision-making.
-
-**🔬 Key Features:**
-- Logistic Regression model with 87% accuracy
-- Comprehensive EDA to identify key risk factors
-- Deployed as a user-friendly Streamlit application
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-</td>
-</tr>
 </table>
+
+
 
 ---
 
