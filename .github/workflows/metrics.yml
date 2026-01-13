@@ -16,7 +16,7 @@ jobs:
         name: General Stats & Languages
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           user: BhargavKumarNath
@@ -37,14 +37,13 @@ jobs:
           # title_color=6366F1 (Indigo)
           # text_color=FFFFFF (White)
           # icon_color=8B5CF6 (Purple)
-          color_snake: "#8B5CF6"
           use_prebuilt_image: yes
 
       - uses: lowlighter/metrics@latest
         name: Trophies / Achievements
         with:
           filename: github-metrics-trophies.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           user: BhargavKumarNath
           
