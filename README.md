@@ -442,26 +442,22 @@ Specialized Libraries:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhargavKumarNath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF&ring_color=A855F7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavKumarNath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
-  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhargavkumarnath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF&ring_color=A855F7" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavkumarnath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
+
 </div>
-
-
 
 <div align="center">
   
   <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?u=BhargavKumarNath&theme=github-dark" alt="github contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/BhargavKumarNath/BhargavKumarNath/output/dist/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation"/>
   
 </div>
 
 <div align="center">
-  
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=BhargavKumarNath&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhargavkumarnath&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
 </div>
 
 ---
