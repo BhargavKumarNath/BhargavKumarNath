@@ -538,6 +538,18 @@ Deep dive into optimization landscapes, comparing gradient-based methods with ev
 <div align="center">
 
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "primaryColor": "#7aa2f7",
+    "primaryTextColor": "#ffffff",
+    "primaryBorderColor": "#7dcfff",
+    "lineColor": "#e0af68",
+    "secondaryColor": "#9ece6a",
+    "tertiaryColor": "#bb9af7",
+    "fontSize": "22px"
+  }
+}}%%
 mindmap
   root((ML Research))
     Neural Architecture Search
