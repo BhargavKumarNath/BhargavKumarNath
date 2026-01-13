@@ -450,7 +450,7 @@ Specialized Libraries:
 <div align="center">
   
   <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/BhargavKumarNath/BhargavKumarNath/output/dist/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/BhargavKumarNath/BhargavKumarNath/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation"/>
   
 </div>
 
