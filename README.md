@@ -447,17 +447,14 @@ Specialized Libraries:
 
 </div>
 
+
+
+
 <div align="center">
   
   <!-- Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/BhargavKumarNath/BhargavKumarNath/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation"/>
   
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BhargavKumarNath/BhargavKumarNath/metrics/github-metrics-trophies.svg" alt="GitHub Trophies" />
-
 </div>
 
 ---

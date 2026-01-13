@@ -45,22 +45,4 @@ jobs:
           # icon_color=8B5CF6 (Purple)
           use_prebuilt_image: yes
 
-      - uses: lowlighter/metrics@latest
-        name: Trophies / Achievements
-        with:
-          filename: github-metrics-trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          
-          # Output to a separate branch
-          output_action: commit
-          committer_branch: metrics
-          committer_message: "Update trophies"
-          
-          user: BhargavKumarNath
-          
-          # Plugin: Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: no
-          plugin_achievements_threshold: C
+
