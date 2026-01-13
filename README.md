@@ -443,7 +443,7 @@ Specialized Libraries:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhargavkumarnath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF&ring_color=A855F7" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavkumarnath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
+<img height="180em" src="https://raw.githubusercontent.com/BhargavKumarNath/BhargavKumarNath/metrics/github-metrics.svg" >
 
 </div>
 
@@ -456,7 +456,7 @@ Specialized Libraries:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhargavkumarnath&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/BhargavKumarNath/BhargavKumarNath/metrics/github-metrics-trophies.svg" alt="GitHub Trophies" />
 
 </div>
 
