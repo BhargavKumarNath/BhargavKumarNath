@@ -19,6 +19,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
+          
+          # Output to a separate branch
+          output_action: commit
+          committer_branch: metrics
+          committer_message: "Update metrics"
+          
           user: BhargavKumarNath
           template: classic
           base_indepth: yes
@@ -45,6 +51,12 @@ jobs:
           filename: github-metrics-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
+          
+          # Output to a separate branch
+          output_action: commit
+          committer_branch: metrics
+          committer_message: "Update trophies"
+          
           user: BhargavKumarNath
           
           # Plugin: Achievements
