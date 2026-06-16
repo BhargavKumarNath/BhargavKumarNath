@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Bhargav%20Kumar%20Nath&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=ML%20Engineer%20%7C%20Systems%20Researcher%20%7C%20Builder&descAlignY=62&descSize=20" width="100%" />
 
@@ -45,8 +45,8 @@ class MLEngineer:
     def current_focus(self):
         return {
             "systems_engineering": [
-                "LLM Inference Optimization — PagedAttention in Rust + CUDA",
-                "Agentic RAG Pipelines — LangGraph, Qdrant, RAGAS",
+                "LLM Inference Optimization PagedAttention in Rust + CUDA",
+                "Agentic RAG Pipelines LangGraph, Qdrant, RAGAS",
                 "High-Throughput Signal Intelligence for Quant Finance",
                 "100M+ Event Pipelines with DuckDB + Polars",
             ],
@@ -70,19 +70,19 @@ class MLEngineer:
 <summary><b>📖 My Journey in ML (Click to expand)</b></summary>
 <br/>
 
-My path started with hands-on data engineering work and grew into a deep obsession with the boundary between research and production. I ship things that work — in real data centres, on commodity hardware, under real latency constraints.
+My path started with hands-on data engineering work and grew into a deep obsession with the boundary between research and production. I ship things that work in real data centres, on commodity hardware, under real latency constraints.
 
 **What drives me:**
-- ⚡ **Systems Performance** — Pushing hardware to its limits: PagedAttention in Rust, CUDA kernels, KV-cache optimization achieving 8–32× throughput gains
-- 🤖 **Agentic AI** — Building reliable LLM pipelines that reason, retrieve, and act with verifiable faithfulness scores (0.91 on RAGAS)
-- 🎯 **Causal Intelligence** — Moving beyond A/B testing to true treatment effect estimation, identifying micro-segments driving 70% of total uplift
-- 🔬 **Scientific ML** — Applying GNNs and hybrid architectures to accelerate material science and drug discovery
-- 📊 **Quantitative Finance** — Designing signal intelligence platforms for real-time algorithmic trading decisions
+- ⚡ **Systems Performance** Pushing hardware to its limits: PagedAttention in Rust, CUDA kernels, KV-cache optimization achieving 8–32× throughput gains
+- 🤖 **Agentic AI** Building reliable LLM pipelines that reason, retrieve, and act with verifiable faithfulness scores (0.91 on RAGAS)
+- 🎯 **Causal Intelligence** Moving beyond A/B testing to true treatment effect estimation, identifying micro-segments driving 70% of total uplift
+- 🔬 **Scientific ML** Applying GNNs and hybrid architectures to accelerate material science and drug discovery
+- 📊 **Quantitative Finance** Designing signal intelligence platforms for real-time algorithmic trading decisions
 
 **Three Core Principles:**
-1. **Escape the State-of-the-Art Trap** — Leaderboard victories rarely survive reality. Establish honest baselines first.
-2. **Data Over Algorithms** — Architectures come and go; long-term success depends on data quality and distribution understanding.
-3. **Deployment as the Starting Line** — A shipped model needs continuous monitoring to stay reliable. Production is where the real work begins.
+1. **Escape the State-of-the-Art Trap** Leaderboard victories rarely survive reality. Establish honest baselines first.
+2. **Data Over Algorithms** Architectures come and go; long-term success depends on data quality and distribution understanding.
+3. **Deployment as the Starting Line** A shipped model needs continuous monitoring to stay reliable. Production is where the real work begins.
 
 Currently completing my MSc at the University of Leeds, specializing in advanced ML, big data architecture, and MLOps. Actively seeking full-time opportunities to build impactful ML systems.
 
@@ -104,7 +104,7 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 
 <div align="center">
 
-### ⚡ [PageForge — LLM Inference Engine](https://github.com/BhargavKumarNath/PageForge)
+### ⚡ [PageForge LLM Inference Engine](https://github.com/BhargavKumarNath/PageForge)
 
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -112,7 +112,7 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 
 </div>
 
-**Systems Achievement:** Memory management system for LLM inference implementing PagedAttention — achieving **8–32× throughput improvement** (424 sequences/GB vs. 53) by eliminating up to 90% VRAM waste from pre-allocated KV caches.
+**Systems Achievement:** Memory management system for LLM inference implementing PagedAttention achieving **8–32× throughput improvement** (424 sequences/GB vs. 53) by eliminating up to 90% VRAM waste from pre-allocated KV caches.
 
 **Key Innovations:**
 - 🦀 PagedAttention paging engine written in **Rust** with Python bindings via **PyO3**
@@ -123,7 +123,7 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 **Tech Stack:**  
 `Rust` `CUDA` `Python` `PyO3` `CuPy` `PagedAttention`
 
-**Impact:** Enables serving larger batch sizes on constrained hardware — bridging research-grade LLMs and edge deployment.
+**Impact:** Enables serving larger batch sizes on constrained hardware bridging research-grade LLMs and edge deployment.
 
 <div align="center">
 
@@ -137,14 +137,14 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 
 <div align="center">
 
-### 📡 [Andria Systems — Signal Intelligence Platform](https://github.com/BhargavKumarNath/Andria-Systems)
+### 📡 [Andria Systems Signal Intelligence Platform](https://github.com/BhargavKumarNath/Andria-Systems)
 
 <img src="https://img.shields.io/badge/Quant_Finance-f59e0b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Real--time_Analytics-10b981?style=for-the-badge" />
 
 </div>
 
-**Engineering Achievement:** High-throughput signal intelligence platform for quantitative hedge funds — enabling **sub-second signal extraction** from fragmented high-velocity alternative data streams for real-time algorithmic trading decisions.
+**Engineering Achievement:** High-throughput signal intelligence platform for quantitative hedge funds enabling **sub-second signal extraction** from fragmented high-velocity alternative data streams for real-time algorithmic trading decisions.
 
 **Key Features:**
 - 📊 Unified ingestion layer normalizing heterogeneous alternative data streams
@@ -171,14 +171,14 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 
 <div align="center">
 
-### 🧬 [EMPAS — Evolutionary Mixed-Precision Architecture Search](https://github.com/BhargavKumarNath/Evolutionary-Mixed-Precision-Architecture-Search)
+### 🧬 [EMPAS Evolutionary Mixed-Precision Architecture Search](https://github.com/BhargavKumarNath/Evolutionary-Mixed-Precision-Architecture-Search)
 
 <img src="https://img.shields.io/badge/Hardware--Aware_NAS-8b5cf6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLM_Quantization-a855f7?style=for-the-badge" />
 
 </div>
 
-**Research Contribution:** Hardware-aware NAS framework reducing LLM VRAM by **40%** with a **20% throughput gain** — compressing evolutionary search time from days to minutes on TinyLlama-1.1B.
+**Research Contribution:** Hardware-aware NAS framework reducing LLM VRAM by **40%** with a **20% throughput gain** compressing evolutionary search time from days to minutes on TinyLlama-1.1B.
 
 **Key Innovations:**
 - 🧠 Hessian-guided evolutionary optimization for sensitivity-aware quantization
@@ -203,14 +203,14 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 
 <div align="center">
 
-### 🤖 [FinSight-Alpha — Agentic RAG for Finance](https://github.com/BhargavKumarNath/FinSightAlpha)
+### 🤖 [FinSight-Alpha Agentic RAG for Finance](https://github.com/BhargavKumarNath/FinSightAlpha)
 
 <img src="https://img.shields.io/badge/Agentic_AI-3b82f6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
 </div>
 
-**Engineering Achievement:** Production agentic RAG pipeline for financial document analysis — achieving **0.91 faithfulness score** on RAGAS and **+56% F1 improvement** over naive retrieval.
+**Engineering Achievement:** Production agentic RAG pipeline for financial document analysis achieving **0.91 faithfulness score** on RAGAS and **+56% F1 improvement** over naive retrieval.
 
 **Key Innovations:**
 - 🔍 Hybrid retrieval: dense (**Qdrant**) + sparse retrieval for maximum recall
@@ -244,7 +244,7 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 
 </div>
 
-**Engineering Achievement:** Analytics system processing **109.9M event logs on commodity hardware** — achieving **97% memory reduction** (14.7 GB → 1.9 GB) and **4.5× conversion lift** via propensity-modeled targeting.
+**Engineering Achievement:** Analytics system processing **109.9M event logs on commodity hardware** achieving **97% memory reduction** (14.7 GB → 1.9 GB) and **4.5× conversion lift** via propensity-modeled targeting.
 
 **Key Innovations:**
 - 🦆 **DuckDB + Polars** in-process analytics replacing heavyweight Spark for sub-100M workloads
@@ -255,7 +255,7 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 **Tech Stack:**  
 `DuckDB` `Polars` `LightGBM` `Propensity Modeling` `Python`
 
-**Impact:** Enterprise-scale behavioral analytics on a laptop — no cluster required.
+**Impact:** Enterprise-scale behavioral analytics on a laptop no cluster required.
 
 <div align="center">
 
@@ -276,7 +276,7 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 
 </div>
 
-**Research Contribution:** Unified causal experimentation engine estimating **Heterogeneous Treatment Effects (HTE)** — achieving **<1ms inference latency** and identifying micro-segments driving **70% of total uplift** (+$0.14/user).
+**Research Contribution:** Unified causal experimentation engine estimating **Heterogeneous Treatment Effects (HTE)** achieving **<1ms inference latency** and identifying micro-segments driving **70% of total uplift** (+$0.14/user).
 
 **Key Innovations:**
 - 🎯 X-Learner & Meta-Learner implementations for CATE estimation
@@ -301,14 +301,14 @@ Currently completing my MSc at the University of Leeds, specializing in advanced
 </table>
 
 <details>
-<summary><b>🔍 More Projects — Click to Expand</b></summary>
+<summary><b>🔍 More Projects Click to Expand</b></summary>
 <br/>
 
 <table>
 <tr>
 <td width="50%">
 
-**🛒 [PricePoint Dynamics — UK Supermarket Intelligence](https://github.com/BhargavKumarNath/PricePoint-Dynamics-Decoding-the-UK-Supermarket-Competitive-Landscape-with-Machine-Learning)**
+**🛒 [PricePoint Dynamics UK Supermarket Intelligence](https://github.com/BhargavKumarNath/PricePoint-Dynamics-Decoding-the-UK-Supermarket-Competitive-Landscape-with-Machine-Learning)**
 
 Competitive intelligence system analyzing 9.5M+ daily prices across 67,000+ products. MAE £0.139 (R²=0.98), proving Aldi as market price leader with 4–7 day lead time.
 
@@ -322,7 +322,7 @@ Competitive intelligence system analyzing 9.5M+ daily prices across 67,000+ prod
 </td>
 <td width="50%">
 
-**🌌 [MALLORN — Rare Transient Detection in Astronomy](https://github.com/BhargavKumarNath/MALLORN-Astronomical-Classification-Challenge)**
+**🌌 [MALLORN Rare Transient Detection in Astronomy](https://github.com/BhargavKumarNath/MALLORN-Astronomical-Classification-Challenge)**
 
 Multi-channel RNN pipeline detecting rare Tidal Disruption Events at 4.86% class prevalence. **+197% F1 improvement** over GRU baseline (0.53 F1 score).
 
@@ -338,7 +338,7 @@ Multi-channel RNN pipeline detecting rare Tidal Disruption Events at 4.86% class
 <tr>
 <td width="50%">
 
-**🎭 [Synthetic Intelligence — Privacy-Preserving Data Generation](https://github.com/BhargavKumarNath/Synthetic-Intelligence)**
+**🎭 [Synthetic Intelligence Privacy-Preserving Data Generation](https://github.com/BhargavKumarNath/Synthetic-Intelligence)**
 
 Generative tabular data framework with **+5.1% AUPRC over SMOTE** and linear O(N) complexity via model-driven rejection sampling with manifold alignment guarantees.
 
@@ -352,7 +352,7 @@ Generative tabular data framework with **+5.1% AUPRC over SMOTE** and linear O(N
 </td>
 <td width="50%">
 
-**🧪 [Melting Point Prediction — Hybrid GNN Architecture](https://github.com/BhargavKumarNath/Thermophysical-Property-Melting-Point)**
+**🧪 [Melting Point Prediction Hybrid GNN Architecture](https://github.com/BhargavKumarNath/Thermophysical-Property-Melting-Point)**
 
 GNN + XGBoost fusion for thermodynamic property prediction. **20% MAE reduction** vs. pure deep learning, <50ms latency (24.59K MAE).
 
@@ -368,7 +368,7 @@ GNN + XGBoost fusion for thermodynamic property prediction. **20% MAE reduction*
 <tr>
 <td width="50%">
 
-**🏋️ [Fitness Tracker — Production Spark ML Pipeline](https://github.com/BhargavKumarNath/Fitness-Tracker-Analysis)**
+**🏋️ [Fitness Tracker Production Spark ML Pipeline](https://github.com/BhargavKumarNath/Fitness-Tracker-Analysis)**
 
 Enterprise ML system processing 358K+ records from 1.9K+ users. **98% classification accuracy** with 198 FFT-derived temporal features and 98% data compression.
 
@@ -382,7 +382,7 @@ Enterprise ML system processing 358K+ records from 1.9K+ users. **98% classifica
 </td>
 <td width="50%">
 
-**🧬 [Neural Architecture Search — Genetic Algorithms](https://github.com/BhargavKumarNath/Neural-Architecture-Search)**
+**🧬 [Neural Architecture Search Genetic Algorithms](https://github.com/BhargavKumarNath/Neural-Architecture-Search)**
 
 Evolutionary CNN optimization achieving **97.15% accuracy** on medical imaging via custom genetic operators: selection, crossover, and mutation with fault-tolerant checkpointing.
 
@@ -396,7 +396,7 @@ Evolutionary CNN optimization achieving **97.15% accuracy** on medical imaging v
 <tr>
 <td width="50%">
 
-**🧠 [Deep Learning Lab — Interactive TypeScript Engine](https://github.com/BhargavKumarNath/DeepLearningLab)**
+**🧠 [Deep Learning Lab Interactive TypeScript Engine](https://github.com/BhargavKumarNath/DeepLearningLab)**
 
 Dependency-free mathematical neural network engine built from scratch in TypeScript for hands-on hyperparameter experimentation with live training noise injection.
 
@@ -408,7 +408,7 @@ Dependency-free mathematical neural network engine built from scratch in TypeScr
 </td>
 <td width="50%">
 
-**📊 [UK Supermarket Competitive Intelligence — Extended Analysis](https://github.com/BhargavKumarNath/PricePoint-Dynamics-Decoding-the-UK-Supermarket-Competitive-Landscape-with-Machine-Learning)**
+**📊 [UK Supermarket Competitive Intelligence Extended Analysis](https://github.com/BhargavKumarNath/PricePoint-Dynamics-Decoding-the-UK-Supermarket-Competitive-Landscape-with-Machine-Learning)**
 
 Deep-dive into pricing strategy dynamics across major UK supermarket chains with causal analysis of competitor response patterns and Granger causality testing.
 
@@ -467,7 +467,7 @@ Specialized:
 ```
 
 <details>
-<summary><b>🎨 Full Tech Stack Badges — Click to Expand</b></summary>
+<summary><b>🎨 Full Tech Stack Badges Click to Expand</b></summary>
 <br/>
 
 <div align="center">
@@ -705,7 +705,7 @@ mindmap
 
 <div align="center">
 
-### 📝 Technical Publications — LeedsFINsights
+### 📝 Technical Publications LeedsFINsights
 
 </div>
 
@@ -764,7 +764,7 @@ Examining the intersection of AI advancement and environmental, social, and gove
 <td align="center" width="25%">
 <h2>8–32×</h2>
 <b>Throughput Gain</b><br/>
-<em>LLM Inference — PageForge</em>
+<em>LLM Inference PageForge</em>
 </td>
 <td align="center" width="25%">
 <h2>109.9M</h2>
@@ -786,12 +786,12 @@ Examining the intersection of AI advancement and environmental, social, and gove
 <td align="center" width="25%">
 <h2>0.91</h2>
 <b>Faithfulness Score</b><br/>
-<em>Agentic RAG — FinSight</em>
+<em>Agentic RAG FinSight</em>
 </td>
 <td align="center" width="25%">
 <h2>40%</h2>
 <b>VRAM Reduction</b><br/>
-<em>LLM Quantization — EMPAS</em>
+<em>LLM Quantization EMPAS</em>
 </td>
 <td align="center" width="25%">
 <h2>&lt;1ms</h2>
