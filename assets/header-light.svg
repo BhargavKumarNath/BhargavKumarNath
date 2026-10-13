@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Bhargav Kumar Nath — Data Scientist / Machine Learning Engineer</title>
+<desc id="desc">Patterns first. Precision always. A technical drawing of concentric rings and connected nodes accompanies the heading.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#d9d8cb" stroke-width="0.5"/></pattern></defs>
+<rect width="1200" height="360" rx="16" fill="#f6f5ef"/>
+<rect x="800" width="400" height="360" fill="url(#grid)"/>
+<path d="M48 48H100" stroke="#c9a876" stroke-width="3"/>
+<text x="115" y="53" fill="#65665a" font-family="monospace" font-size="13" letter-spacing="3">PRECISION MECHANISM</text>
+<text x="48" y="132" fill="#24251f" font-family="Arial, sans-serif" font-size="52" font-weight="700">Bhargav Kumar Nath</text>
+<text x="50" y="176" fill="#65665a" font-family="Arial, sans-serif" font-size="22">Data Scientist / Machine Learning Engineer</text>
+<text x="48" y="247" fill="#24251f" font-family="Arial, sans-serif" font-size="29">Patterns first.</text>
+<text x="48" y="283" fill="#b69562" font-family="Arial, sans-serif" font-size="29">Precision always.</text>
+<g transform="translate(995 174)" fill="none" stroke="#d9d8cb">
+<circle r="119"/><circle r="88"/><circle r="48"/>
+<path d="M-142 0H142M0-142V142M-100-100L100 100M-100 100L100-100"/>
+<path d="M0-119 A119 119 0 0 1 119 0" stroke="#c9a876" stroke-width="3"/>
+<path d="M-88 0A88 88 0 0 0 0 88" stroke="#c9a876" stroke-width="2"/>
+<path d="M-62-62L0 0L62-62M0 0L0 88" stroke="#c9a876" stroke-width="2"/>
+<g fill="#f6f5ef" stroke="#c9a876" stroke-width="2"><circle r="8"/><circle cx="-62" cy="-62" r="5"/><circle cx="62" cy="-62" r="5"/><circle cy="88" r="5"/></g></g>
+<text x="881" y="329" fill="#65665a" font-family="monospace" font-size="11" letter-spacing="2">DATA → MODEL → SYSTEM</text>
+</svg>
